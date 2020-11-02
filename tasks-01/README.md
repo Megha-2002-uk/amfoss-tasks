@@ -2,4 +2,5 @@
 
 STAR ALL THE amFOSS REPOSITORIES
 
-![Screenshot](screenshot.png)
+
+screenshot.png
